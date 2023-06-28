@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="col_1">#D2F3F1</color>
+    <color name="col_2">#FFFFAE</color>
+    <color name="col_3">#CDA1EF</color>
+    <color name="col_4">#A4A4A4</color>
+    <color name="col_5">#56CFE1</color>
+    <color name="col_6">#5E60CE</color>
+</resources>

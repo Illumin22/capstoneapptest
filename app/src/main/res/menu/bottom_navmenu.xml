@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Inventory"
+        android:icon="@drawable/baseline_inventory_24"
+        android:id="@+id/inventory"/>
+    <item android:title="Transaction Records"
+        android:icon="@drawable/ic_records"
+        android:id="@+id/records"/>
+    <item android:title="Alerts"
+        android:icon="@drawable/ic_alerts"
+        android:id="@+id/alerts"/>
+</menu>
